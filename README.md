@@ -5,7 +5,7 @@ Currently working for [British Council](http://learnenglish.britishcouncil.org/)
 
 F# and Functional paradigm fan.
 
-IPA beer fan.
+IPA beer drinker.
 
 🌱 I’m currently learning how to live as DevOps / Blazor 
 
