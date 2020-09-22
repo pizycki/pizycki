@@ -3,15 +3,13 @@
 
 Currently working for [British Council](http://learnenglish.britishcouncil.org/) as Full Stack Developer.
 
-F# and Functional paradigm fan.
+☄ F# and Functional paradigm fan.
 
-IPA beer drinker.
+🍻 IPA beer drinker.
 
-🌱 I’m currently learning how to live as DevOps / Blazor 
+🌱 I’m currently learning how to live as DevOps
 
 📫 Reach me at pawel.izycki@gmail.com
-
-⚡ Fun fact: I love IPA beer 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pizycki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paweł-iżycki-5771a497/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pizycki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pizycki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](pizycki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](izzydev.net)  
 
