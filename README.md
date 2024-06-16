@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Paweł Iżycki
 ![](https://pbs.twimg.com/profile_banners/2347556420/1491765029/1500x500)
 
-Currently working for [Allegro](allegro.pl) as Platform Developer.
+Currently working for [Allegro](https://allegro.pl) as Platform Developer.
 
 ☄ Functional paradigm fan.
 
