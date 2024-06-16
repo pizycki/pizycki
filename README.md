@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Paweł Iżycki
 ![](https://pbs.twimg.com/profile_banners/2347556420/1491765029/1500x500)
 
-Currently working for [British Council](http://learnenglish.britishcouncil.org/) as Full Stack Developer.
+Currently working for [Allegro](allegro.pl) as Platform Developer.
 
-☄ F# and Functional paradigm fan.
+☄ Functional paradigm fan.
 
 🍻 IPA beer drinker.
 
-🌱 I’m currently learning how to live as DevOps
+🌱 Currently interested in monitoring.
 
 📫 Reach me at pawel.izycki@gmail.com
 
